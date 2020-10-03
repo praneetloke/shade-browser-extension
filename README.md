@@ -1,5 +1,7 @@
 # Shade
 
+> Read about it on [DEV](https://dev.to/praneetloke/i-wrote-a-browser-extension-to-protect-your-privacy-1nje).
+
 A support repo for the Shade browser extension.
 
 Encountered a problem or have a feature request? Please submit an issue [here](https://github.com/praneetloke/shade-browser-extension/issues/new/choose).
