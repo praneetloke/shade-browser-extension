@@ -8,7 +8,7 @@ Encountered a problem or have a feature request? Please submit an issue [here](h
 
 ## Download
 
-![Chrome](https://www.google.com/images/icons/product/chrome_web_store-32.png) Chrome (coming soon!)
+![Chrome](https://www.google.com/images/icons/product/chrome_web_store-32.png) [Chrome](https://chrome.google.com/webstore/detail/shade/denfadghfapneeflooogfflmnnebpjha?hl=en&authuser=0)
 
 ![Edge](https://microsoftedge.microsoft.com/favicon.ico) [Edge](https://microsoftedge.microsoft.com/addons/detail/shade/beejdgamkplgnpoabpkgpkdcbdhhnial)
 
